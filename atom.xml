@@ -4,7 +4,7 @@
   <title><![CDATA[How did I do that?]]></title>
   <link href="http://hannahbrian.github.com/atom.xml" rel="self"/>
   <link href="http://hannahbrian.github.com/"/>
-  <updated>2011-11-23T13:15:37-06:00</updated>
+  <updated>2011-11-23T13:18:21-06:00</updated>
   <id>http://hannahbrian.github.com/</id>
   <author>
     <name><![CDATA[Brian]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test Post]]></title>
-    <link href="http://hannahbrian.github.com/blog/2011/11/23/test-post/"/>
-    <updated>2011-11-23T13:13:00-06:00</updated>
-    <id>http://hannahbrian.github.com/blog/2011/11/23/test-post</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
